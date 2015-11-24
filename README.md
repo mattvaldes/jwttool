@@ -1,2 +1,2 @@
 # jwttool
-tool for manipulating JSON web tokens
+tool for creating and manipulating JSON web tokens
